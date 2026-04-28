@@ -6,7 +6,7 @@
 - [X] Set up basic Flask files (app.py, templates, static folder)
 - [X] Install needed libraries (Flask, BeautifulSoup, requests)
 - [ ] Set up SQLite database
-- [ ] Create an events table
+- [X] Create an events table
 ## Phase 2 — Data Collection (Web Scraping)
 - [ ] Write a function to scrape event data using BeautifulSoup
 - [ ] Pull info like event name, date, location, and description
